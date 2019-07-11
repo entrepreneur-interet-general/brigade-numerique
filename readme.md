@@ -4,7 +4,7 @@ Le défi [Brigade Numérique](https://entrepreneur-interet-general.etalab.gouv.f
 
 Nous pouvons synthétiser le défis comme le déployement de la Brigade Numérique et la mise en place d'un outil de prise de rendez. Cette documentation agrège les détails pratiques du projet, comme :
 
-- **[L'opportunité du projet de prise de rendez-vous](opportunité-projet.md)**
+- **[L'opportunité du projet de prise de rendez-vous](opportunite-projet.md)**
 - **[Les maquettes de l'outil de prise de rendez-vous](Prise_RDV/Maquettes/PriseRDV-SP.sketch)**
 
 ## Publication web
