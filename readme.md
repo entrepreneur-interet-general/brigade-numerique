@@ -2,8 +2,12 @@
 
 Le défi [Brigade Numérique](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/brigadenumerique.html) est documenté à travers ce [dépôt Bragide Numérique](https://github.com/entrepreneur-interet-general/brigade-numerique). 
 
-Nous pouvons synthétiser le défis comme le déployement de la plateforme mulitcanal utilisé par la [Brigade Numérique](https://www.gendarmerie.interieur.gouv.fr/Zooms/La-brigade-numerique-en-5-questions), l'ajout des[horaires d'acceuil des gendarmerie en opendata](https://www.data.gouv.fr/fr/datasets/liste-des-unites-de-gendarmerie-accueillant-du-public-comprenant-leur-geolocalisation-et-leurs-horaires-douverture/) et la conception d'un outil de prise de rendez. Cette documentation agrège les détails pratiques du projet, comme :
+Le défi a pour mission :
+- le déployement de la plateforme mulitcanal utilisé par la [Brigade Numérique](https://www.gendarmerie.interieur.gouv.fr/Zooms/La-brigade-numerique-en-5-questions), 
+- l'ajout des[horaires d'acceuil des gendarmerie en opendata](https://www.data.gouv.fr/fr/datasets/liste-des-unites-de-gendarmerie-accueillant-du-public-comprenant-leur-geolocalisation-et-leurs-horaires-douverture/) 
+- et la conception d'un outil de prise de rendez. 
 
+Cette documentation agrège les détails pratiques du projet, comme :
 - **[L'opportunité du projet de prise de rendez-vous](opportunite-projet.md)**
 - **[Les maquettes de l'outil de prise de rendez-vous](Prise_RDV/Maquettes/PriseRDV-SP.sketch)**
 
