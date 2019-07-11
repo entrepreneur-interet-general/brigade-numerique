@@ -10,7 +10,8 @@ Nous pouvons synthétiser le défis comme le déployement de la Brigade Numériq
 ## Publication web
 
 L'opportunité projet est publié sur https://pad.etalab.studio/s/Bk7Vz-Q94#
-Et la note synthétique de cette opportunité a été publié sur https://pad.numerique-en-commun.fr/s/B1ikrpahQ#
+
+La note synthétique de cette opportunité (à destination des décideurs) a été publié sur https://pad.numerique-en-commun.fr/s/B1ikrpahQ#
 
 ## Maintenance de ce dépôt
 
