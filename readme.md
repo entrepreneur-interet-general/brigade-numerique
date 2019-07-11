@@ -1,4 +1,4 @@
-# Défi Brigade Numérique EIG2/2IG2018
+# Défi Brigade Numérique
 
 Le défi [Brigade Numérique](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/brigadenumerique.html) est documenté à travers ce [dépôt Bragide Numérique](https://github.com/entrepreneur-interet-general/brigade-numerique). 
 
