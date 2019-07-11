@@ -5,11 +5,11 @@ Le défi [Brigade Numérique](https://entrepreneur-interet-general.etalab.gouv.f
 Le défi a pour principale mission :
 - le déployement de la plateforme mulitcanal utilisé par la [Brigade Numérique](https://www.gendarmerie.interieur.gouv.fr/Zooms/La-brigade-numerique-en-5-questions), 
 - l'ajout des [horaires d'acceuil des gendarmeries en opendata](https://www.data.gouv.fr/fr/datasets/liste-des-unites-de-gendarmerie-accueillant-du-public-comprenant-leur-geolocalisation-et-leurs-horaires-douverture/) 
-- l'expérimetation de déploiement de borne tactile en lien avec la Brigade Numérique dans quelques gendarmerie surchargée
+- le déploiement de bornes tactiles en lien avec la Brigade Numérique dans quelques gendarmeries surchargées
 - et la conception d'un outil de prise de rendez sur [service-public.fr](https://www.service-public.fr/)
-	- Actuellement en expérimentation sur le 35 et le 48 - [Voir l'article et vidéo explicative](https://www.gendinfo.fr/Actualites/2019/Gendarmerie-2.0-experimentation-des-prises-de-rendez-vous-en-ligne)
+	- Actuellement en expérimentation sur le 35 (Rennes) et le 45 (Orélans) - [Voir l'article et vidéo explicative](https://www.gendinfo.fr/Actualites/2019/Gendarmerie-2.0-experimentation-des-prises-de-rendez-vous-en-ligne)
 	- Par exemple sur la [page de l'annuaire service-public.fr sur la gendarmerie de Plélan-le-Grand](https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/gendarmerie-35223-01)
-	- Nous pouvons observer la [page suivante pour prendre un RDV (cf. capture d'écran)](Capture-20190711-Brigade-de-gendarmerie-Plélan-le-Grand-Ille-et-Vilaine-35-Annuaire-service-public-fr.png)
+	- Nous pouvons observer la [page suivante pour prendre un RDV (cf. capture d'écran)](Prise_RDV/Capture-20190711-Brigade-de-gendarmerie-Plélan-le-Grand-Ille-et-Vilaine-35-Annuaire-service-public-fr.png)
 
 Cette documentation agrège les détails pratiques du projet, comme :
 - **[L'opportunité du projet de prise de rendez-vous](opportunite-projet.md)**
