@@ -9,7 +9,7 @@ Le défi a pour principale mission :
 - et la conception d'un outil de prise de rendez sur [service-public.fr](https://www.service-public.fr/)
 	- Actuellement en expérimentation sur le 35 (Rennes) et le 45 (Orélans) - [Voir l'article et vidéo explicative](https://www.gendinfo.fr/Actualites/2019/Gendarmerie-2.0-experimentation-des-prises-de-rendez-vous-en-ligne)
 	- Par exemple sur la [page de l'annuaire service-public.fr sur la gendarmerie de Plélan-le-Grand](https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/gendarmerie-35223-01)
-	- Nous pouvons observer la [page suivante pour prendre un RDV (cf. capture d'écran)](Prise_RDV/Capture-20190711-Brigade-de-gendarmerie-Plélan-le-Grand-Ille-et-Vilaine-35-Annuaire-service-public-fr.png)
+	- Nous pouvons observer la [page suivante pour prendre un RDV (cf. capture d'écran)](Prise_RDV/Capture-Brigade-Plelan-le-Grand.png)
 
 Cette documentation agrège les détails pratiques du projet, comme :
 - **[L'opportunité du projet de prise de rendez-vous](opportunite-projet.md)**
@@ -17,7 +17,7 @@ Cette documentation agrège les détails pratiques du projet, comme :
 
 ## Publication web
 
-L'opportunité projet est publié sur https://pad.etalab.studio/s/Bk7Vz-Q94#
+L'opportunité projet est en ligne sur https://pad.etalab.studio/s/Bk7Vz-Q94#
 
 La note synthétique de cette opportunité (à destination des décideurs) a été publié sur https://pad.numerique-en-commun.fr/s/B1ikrpahQ#
 
