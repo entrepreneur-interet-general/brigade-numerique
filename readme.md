@@ -12,14 +12,12 @@ Le défi a pour principale mission :
 	- Nous pouvons observer la [page suivante pour prendre un RDV (cf. capture d'écran)](Prise_RDV/Capture-Brigade-Plelan-le-Grand.png)
 
 Cette documentation agrège les détails pratiques du projet, comme :
-- **[L'opportunité du projet de prise de rendez-vous](opportunite-projet.md)**
+- **[L'opportunité du projet de prise de rendez-vous](https://pad.etalab.studio/s/Bk7Vz-Q94#)**
 - **[Les maquettes de l'outil de prise de rendez-vous](Prise_RDV/Maquettes/Maquettes-PriseRDV-SP.sketch)**
 
-## Publication web
+Suite à ce travail, nous avons défini un possible [canevas pour synthétiser/cadrer son projet](canevas-synthèse-projet.md).
 
-L'opportunité projet est en ligne sur https://pad.etalab.studio/s/Bk7Vz-Q94#
-
-La note synthétique de cette opportunité (à destination des décideurs) a été publié sur https://pad.numerique-en-commun.fr/s/B1ikrpahQ#
+Enfnin, une note synthétique de cette opportunité a été reformulé pour une communication à destination des décideurs et a été publié sur https://pad.numerique-en-commun.fr/s/B1ikrpahQ#
 
 ## Maintenance de ce dépôt
 
@@ -40,9 +38,11 @@ Merci !
 
 ## Licence
 
-© 2018 Direction interministérielle du numérique et du système d'information et de communication de l'État
+2018 Direction interministérielle du numérique et du système d'information et de communication de l'État
 
-© 2018 Les contributeurs accessibles via l'historique du dépôt.
+2018 Les contributeurs accessibles via l'historique du dépôt.
 
-Les contenus accessibles dans ce dépôt sont placés sous Licence Ouverte 2.0. Vous êtes libre de réutiliser les contenus de ce dépôt sous les conditions précisées dans cette licence.
+Les contenus accessibles dans ce dépôt sont placés sous [Licence Ouverte 2.0](LICENSE.md). Vous êtes libre de réutiliser les contenus de ce dépôt sous les conditions précisées dans cette licence.
+
+![Logo](https://raw.githubusercontent.com/entrepreneur-interet-general/design-system/master/Visuel/Logo/LogoEIG2/BrigadeNum.png)
 
