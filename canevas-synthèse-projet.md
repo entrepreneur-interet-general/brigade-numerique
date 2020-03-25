@@ -1,4 +1,4 @@
-# Canevas - Synthèse projet
+# Canevas - Synthèse/Cadrage projet
 
 > [Programme]
 > [Projet] 

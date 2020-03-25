@@ -5,7 +5,7 @@
 > Décembre 2018
 > Par Jean-Baptiste Le Dévéhat
 
-> Possibilité de reprendre ce [caneva pour synthétiser/cadrer son projet](https://pad.etalab.studio/s/Ska9D-Q9N#)
+> Possibilité de reprendre ce [caneva pour synthétiser/cadrer son projet](canevas-synthèse-projet.md)
 > * Opportunité projet
 > * Expression des besoins
 >    * Cas d'utilisation
